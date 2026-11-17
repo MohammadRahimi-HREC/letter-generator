@@ -1,0 +1,4 @@
+Flask>=3.0
+lxml>=5.0
+jdatetime>=5.0
+gunicorn>=22.0
